@@ -1,4 +1,4 @@
-package test;
+package testSolution;
 
 import codeToTest.Calculator;
 
